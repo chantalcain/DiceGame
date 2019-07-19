@@ -36,6 +36,8 @@ img {
   width: 200px;
   height: 200px;
   font-size: 2.4em;
+  border-radius: 50%;
+  box-shadow: rgba(0,0,0,0.9) 0 0 30px;
 }
 
 footer {
